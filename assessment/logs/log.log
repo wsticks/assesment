@@ -1,0 +1,1379 @@
+2020-02-05 15:19:13 - Starting AssessmentApplication on wsticks with PID 5212 (C:\Users\williamsondrums\Downloads\assessment\target\classes started by williamsondrums in C:\Users\williamsondrums\Downloads\assessment)
+2020-02-05 15:19:13 - No active profile set, falling back to default profiles: default
+2020-02-05 15:19:13 - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8d971b: startup date [Wed Feb 05 15:19:13 WAT 2020]; root of context hierarchy
+2020-02-05 15:19:16 - Starting AssessmentApplication on wsticks with PID 3388 (C:\Users\williamsondrums\Downloads\assessment\target\classes started by williamsondrums in C:\Users\williamsondrums\Downloads\assessment)
+2020-02-05 15:19:16 - No active profile set, falling back to default profiles: default
+2020-02-05 15:19:16 - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8d971b: startup date [Wed Feb 05 15:19:16 WAT 2020]; root of context hierarchy
+2020-02-05 15:19:24 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-02-05 15:19:24 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-02-05 15:19:24 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [class org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$187ec05b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-02-05 15:19:24 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [class org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$bd6e25f4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-02-05 15:19:26 - Tomcat initialized with port(s): 8680 (http)
+2020-02-05 15:19:26 - Tomcat initialized with port(s): 8680 (http)
+2020-02-05 15:19:26 - Starting service Tomcat
+2020-02-05 15:19:26 - Starting service Tomcat
+2020-02-05 15:19:26 - Starting Servlet Engine: Apache Tomcat/8.5.6
+2020-02-05 15:19:26 - Starting Servlet Engine: Apache Tomcat/8.5.6
+2020-02-05 15:19:27 - Initializing Spring embedded WebApplicationContext
+2020-02-05 15:19:27 - Root WebApplicationContext: initialization completed in 10981 ms
+2020-02-05 15:19:27 - Initializing Spring embedded WebApplicationContext
+2020-02-05 15:19:27 - Root WebApplicationContext: initialization completed in 13759 ms
+2020-02-05 15:19:29 - Mapping filter: 'metricsFilter' to: [/*]
+2020-02-05 15:19:29 - Mapping filter: 'characterEncodingFilter' to: [/*]
+2020-02-05 15:19:29 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2020-02-05 15:19:29 - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2020-02-05 15:19:29 - Mapping filter: 'requestContextFilter' to: [/*]
+2020-02-05 15:19:29 - Mapping filter: 'metricsFilter' to: [/*]
+2020-02-05 15:19:29 - Mapping filter: 'characterEncodingFilter' to: [/*]
+2020-02-05 15:19:29 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2020-02-05 15:19:29 - Mapping filter: 'springSecurityFilterChain' to: [/*]
+2020-02-05 15:19:29 - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2020-02-05 15:19:29 - Mapping filter: 'webRequestLoggingFilter' to: [/*]
+2020-02-05 15:19:29 - Mapping filter: 'requestContextFilter' to: [/*]
+2020-02-05 15:19:29 - Mapping filter: 'applicationContextIdFilter' to: [/*]
+2020-02-05 15:19:29 - Mapping servlet: 'dispatcherServlet' to [/]
+2020-02-05 15:19:29 - Mapping filter: 'springSecurityFilterChain' to: [/*]
+2020-02-05 15:19:29 - Mapping filter: 'webRequestLoggingFilter' to: [/*]
+2020-02-05 15:19:29 - Mapping filter: 'applicationContextIdFilter' to: [/*]
+2020-02-05 15:19:29 - Mapping servlet: 'dispatcherServlet' to [/]
+2020-02-05 15:19:31 - Building JPA container EntityManagerFactory for persistence unit 'default'
+2020-02-05 15:19:31 - Building JPA container EntityManagerFactory for persistence unit 'default'
+2020-02-05 15:19:49 - Starting AssessmentApplication on wsticks with PID 7708 (C:\Users\williamsondrums\Downloads\assessment\target\classes started by williamsondrums in C:\Users\williamsondrums\Downloads\assessment)
+2020-02-05 15:19:49 - No active profile set, falling back to default profiles: default
+2020-02-05 15:19:49 - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8d971b: startup date [Wed Feb 05 15:19:49 WAT 2020]; root of context hierarchy
+2020-02-05 15:19:55 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-02-05 15:19:56 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [class org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$40dca8b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-02-05 15:19:57 - Tomcat initialized with port(s): 8680 (http)
+2020-02-05 15:19:57 - Starting service Tomcat
+2020-02-05 15:19:57 - Starting Servlet Engine: Apache Tomcat/8.5.6
+2020-02-05 15:19:58 - Initializing Spring embedded WebApplicationContext
+2020-02-05 15:19:58 - Root WebApplicationContext: initialization completed in 9094 ms
+2020-02-05 15:19:59 - Mapping filter: 'metricsFilter' to: [/*]
+2020-02-05 15:19:59 - Mapping filter: 'characterEncodingFilter' to: [/*]
+2020-02-05 15:19:59 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2020-02-05 15:19:59 - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2020-02-05 15:19:59 - Mapping filter: 'requestContextFilter' to: [/*]
+2020-02-05 15:19:59 - Mapping filter: 'springSecurityFilterChain' to: [/*]
+2020-02-05 15:19:59 - Mapping filter: 'webRequestLoggingFilter' to: [/*]
+2020-02-05 15:19:59 - Mapping filter: 'applicationContextIdFilter' to: [/*]
+2020-02-05 15:19:59 - Mapping servlet: 'dispatcherServlet' to [/]
+2020-02-05 15:20:00 - Building JPA container EntityManagerFactory for persistence unit 'default'
+2020-02-05 15:20:16 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-02-05 15:20:21 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'apiDescriptionReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/ApiDescriptionReader.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+2020-02-05 15:20:21 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-02-05 15:20:21 - Stopping service Tomcat
+2020-02-05 15:20:21 - 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2020-02-05 15:20:21 - Application startup failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'apiDescriptionReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/ApiDescriptionReader.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:749)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:189)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1056)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:759)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:866)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:542)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:371)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1186)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1175)
+	at com.williams.assessment.AssessmentApplication.main(AssessmentApplication.java:10)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:279)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1056)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:207)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1136)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1064)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:835)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:741)
+	... 19 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:122)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:271)
+	... 32 common frames omitted
+Caused by: java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at springfox.documentation.spring.web.scanners.CachingOperationReader.<init>(CachingOperationReader.java:45)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142)
+	... 34 common frames omitted
+2020-02-05 15:25:57 - Starting AssessmentApplication on wsticks with PID 3288 (C:\Users\williamsondrums\Downloads\assessment\target\classes started by williamsondrums in C:\Users\williamsondrums\Downloads\assessment)
+2020-02-05 15:25:57 - No active profile set, falling back to default profiles: default
+2020-02-05 15:25:58 - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8d971b: startup date [Wed Feb 05 15:25:58 WAT 2020]; root of context hierarchy
+2020-02-05 15:26:04 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-02-05 15:26:05 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [class org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$75583959] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-02-05 15:26:06 - Tomcat initialized with port(s): 8680 (http)
+2020-02-05 15:26:06 - Starting service Tomcat
+2020-02-05 15:26:06 - Starting Servlet Engine: Apache Tomcat/8.5.6
+2020-02-05 15:26:07 - Initializing Spring embedded WebApplicationContext
+2020-02-05 15:26:07 - Root WebApplicationContext: initialization completed in 9176 ms
+2020-02-05 15:26:08 - Mapping filter: 'metricsFilter' to: [/*]
+2020-02-05 15:26:08 - Mapping filter: 'characterEncodingFilter' to: [/*]
+2020-02-05 15:26:08 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2020-02-05 15:26:08 - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2020-02-05 15:26:08 - Mapping filter: 'requestContextFilter' to: [/*]
+2020-02-05 15:26:08 - Mapping filter: 'springSecurityFilterChain' to: [/*]
+2020-02-05 15:26:08 - Mapping filter: 'webRequestLoggingFilter' to: [/*]
+2020-02-05 15:26:08 - Mapping filter: 'applicationContextIdFilter' to: [/*]
+2020-02-05 15:26:08 - Mapping servlet: 'dispatcherServlet' to [/]
+2020-02-05 15:26:09 - Building JPA container EntityManagerFactory for persistence unit 'default'
+2020-02-05 15:26:18 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-02-05 15:26:22 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'apiDescriptionReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/ApiDescriptionReader.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+2020-02-05 15:26:22 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-02-05 15:26:22 - Stopping service Tomcat
+2020-02-05 15:26:23 - 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2020-02-05 15:26:23 - Application startup failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'apiDescriptionReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/ApiDescriptionReader.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:749)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:189)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1056)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:759)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:866)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:542)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:371)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1186)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1175)
+	at com.williams.assessment.AssessmentApplication.main(AssessmentApplication.java:10)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:279)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1056)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:207)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1136)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1064)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:835)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:741)
+	... 19 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:122)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:271)
+	... 32 common frames omitted
+Caused by: java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at springfox.documentation.spring.web.scanners.CachingOperationReader.<init>(CachingOperationReader.java:45)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142)
+	... 34 common frames omitted
+2020-02-05 15:29:28 - Starting AssessmentApplication on wsticks with PID 12340 (C:\Users\williamsondrums\Downloads\assessment\target\classes started by williamsondrums in C:\Users\williamsondrums\Downloads\assessment)
+2020-02-05 15:29:28 - No active profile set, falling back to default profiles: default
+2020-02-05 15:29:29 - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8d971b: startup date [Wed Feb 05 15:29:29 WAT 2020]; root of context hierarchy
+2020-02-05 15:29:36 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-02-05 15:29:36 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [class org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6ae4b5b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-02-05 15:29:38 - Tomcat initialized with port(s): 8680 (http)
+2020-02-05 15:29:38 - Starting service Tomcat
+2020-02-05 15:29:38 - Starting Servlet Engine: Apache Tomcat/8.5.6
+2020-02-05 15:29:38 - Initializing Spring embedded WebApplicationContext
+2020-02-05 15:29:38 - Root WebApplicationContext: initialization completed in 9669 ms
+2020-02-05 15:29:40 - Mapping filter: 'metricsFilter' to: [/*]
+2020-02-05 15:29:40 - Mapping filter: 'characterEncodingFilter' to: [/*]
+2020-02-05 15:29:40 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2020-02-05 15:29:40 - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2020-02-05 15:29:40 - Mapping filter: 'requestContextFilter' to: [/*]
+2020-02-05 15:29:40 - Mapping filter: 'springSecurityFilterChain' to: [/*]
+2020-02-05 15:29:40 - Mapping filter: 'webRequestLoggingFilter' to: [/*]
+2020-02-05 15:29:40 - Mapping filter: 'applicationContextIdFilter' to: [/*]
+2020-02-05 15:29:40 - Mapping servlet: 'dispatcherServlet' to [/]
+2020-02-05 15:29:41 - Building JPA container EntityManagerFactory for persistence unit 'default'
+2020-02-05 15:29:51 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-02-05 15:29:55 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'apiDescriptionReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/ApiDescriptionReader.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+2020-02-05 15:29:55 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-02-05 15:29:55 - Stopping service Tomcat
+2020-02-05 15:29:55 - 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2020-02-05 15:29:55 - Application startup failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'apiDescriptionReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/ApiDescriptionReader.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:749)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:189)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1056)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:759)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:866)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:542)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:371)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1186)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1175)
+	at com.williams.assessment.AssessmentApplication.main(AssessmentApplication.java:10)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:279)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1056)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:207)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1136)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1064)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:835)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:741)
+	... 19 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:122)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:271)
+	... 32 common frames omitted
+Caused by: java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at springfox.documentation.spring.web.scanners.CachingOperationReader.<init>(CachingOperationReader.java:45)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142)
+	... 34 common frames omitted
+2020-02-05 15:48:52 - Starting AssessmentApplication on wsticks with PID 11436 (C:\Users\williamsondrums\Downloads\assessment\target\classes started by williamsondrums in C:\Users\williamsondrums\Downloads\assessment)
+2020-02-05 15:48:52 - No active profile set, falling back to default profiles: default
+2020-02-05 15:48:52 - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8d971b: startup date [Wed Feb 05 15:48:52 WAT 2020]; root of context hierarchy
+2020-02-05 15:49:00 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-02-05 15:49:00 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [class org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$53221192] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-02-05 15:49:02 - Tomcat initialized with port(s): 8680 (http)
+2020-02-05 15:49:02 - Starting service Tomcat
+2020-02-05 15:49:02 - Starting Servlet Engine: Apache Tomcat/8.5.6
+2020-02-05 15:49:02 - Initializing Spring embedded WebApplicationContext
+2020-02-05 15:49:02 - Root WebApplicationContext: initialization completed in 9996 ms
+2020-02-05 15:49:04 - Mapping filter: 'metricsFilter' to: [/*]
+2020-02-05 15:49:04 - Mapping filter: 'characterEncodingFilter' to: [/*]
+2020-02-05 15:49:04 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2020-02-05 15:49:04 - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2020-02-05 15:49:04 - Mapping filter: 'requestContextFilter' to: [/*]
+2020-02-05 15:49:04 - Mapping filter: 'springSecurityFilterChain' to: [/*]
+2020-02-05 15:49:04 - Mapping filter: 'webRequestLoggingFilter' to: [/*]
+2020-02-05 15:49:04 - Mapping filter: 'applicationContextIdFilter' to: [/*]
+2020-02-05 15:49:04 - Mapping servlet: 'dispatcherServlet' to [/]
+2020-02-05 15:49:05 - Building JPA container EntityManagerFactory for persistence unit 'default'
+2020-02-05 15:49:13 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-02-05 15:49:17 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'apiDescriptionReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/ApiDescriptionReader.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+2020-02-05 15:49:17 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-02-05 15:49:17 - Stopping service Tomcat
+2020-02-05 15:49:17 - 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2020-02-05 15:49:18 - Application startup failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'apiDescriptionReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/ApiDescriptionReader.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:749)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:189)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1056)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:759)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:866)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:542)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:371)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1186)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1175)
+	at com.williams.assessment.AssessmentApplication.main(AssessmentApplication.java:10)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:279)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1056)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:207)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1136)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1064)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:835)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:741)
+	... 19 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:122)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:271)
+	... 32 common frames omitted
+Caused by: java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at springfox.documentation.spring.web.scanners.CachingOperationReader.<init>(CachingOperationReader.java:45)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142)
+	... 34 common frames omitted
+2020-02-05 16:05:43 - Starting AssessmentApplication on wsticks with PID 9332 (C:\Users\williamsondrums\Downloads\assessment\target\classes started by williamsondrums in C:\Users\williamsondrums\Downloads\assessment)
+2020-02-05 16:05:43 - No active profile set, falling back to default profiles: default
+2020-02-05 16:05:43 - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8d971b: startup date [Wed Feb 05 16:05:43 WAT 2020]; root of context hierarchy
+2020-02-05 16:05:50 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-02-05 16:05:51 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [class org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$9634b8b2] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-02-05 16:05:52 - Tomcat initialized with port(s): 8680 (http)
+2020-02-05 16:05:52 - Starting service Tomcat
+2020-02-05 16:05:52 - Starting Servlet Engine: Apache Tomcat/8.5.6
+2020-02-05 16:05:53 - Initializing Spring embedded WebApplicationContext
+2020-02-05 16:05:53 - Root WebApplicationContext: initialization completed in 9441 ms
+2020-02-05 16:05:54 - Mapping filter: 'metricsFilter' to: [/*]
+2020-02-05 16:05:54 - Mapping filter: 'characterEncodingFilter' to: [/*]
+2020-02-05 16:05:54 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2020-02-05 16:05:54 - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2020-02-05 16:05:54 - Mapping filter: 'requestContextFilter' to: [/*]
+2020-02-05 16:05:54 - Mapping filter: 'springSecurityFilterChain' to: [/*]
+2020-02-05 16:05:54 - Mapping filter: 'webRequestLoggingFilter' to: [/*]
+2020-02-05 16:05:54 - Mapping filter: 'applicationContextIdFilter' to: [/*]
+2020-02-05 16:05:54 - Mapping servlet: 'dispatcherServlet' to [/]
+2020-02-05 16:05:56 - Building JPA container EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:06:05 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:06:09 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'apiDescriptionReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/ApiDescriptionReader.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+2020-02-05 16:06:09 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:06:09 - Stopping service Tomcat
+2020-02-05 16:06:09 - 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2020-02-05 16:06:09 - Application startup failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'apiDescriptionReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/ApiDescriptionReader.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:749)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:189)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1056)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:759)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:866)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:542)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:371)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1186)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1175)
+	at com.williams.assessment.AssessmentApplication.main(AssessmentApplication.java:10)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:279)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1056)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:207)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1136)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1064)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:835)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:741)
+	... 19 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:122)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:271)
+	... 32 common frames omitted
+Caused by: java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at springfox.documentation.spring.web.scanners.CachingOperationReader.<init>(CachingOperationReader.java:45)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142)
+	... 34 common frames omitted
+2020-02-05 16:06:46 - Starting AssessmentApplication on wsticks with PID 2160 (C:\Users\williamsondrums\Downloads\assessment\target\classes started by williamsondrums in C:\Users\williamsondrums\Downloads\assessment)
+2020-02-05 16:06:46 - No active profile set, falling back to default profiles: default
+2020-02-05 16:06:46 - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8d971b: startup date [Wed Feb 05 16:06:46 WAT 2020]; root of context hierarchy
+2020-02-05 16:06:53 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-02-05 16:06:54 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [class org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$7c5c05c8] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-02-05 16:06:55 - Tomcat initialized with port(s): 8680 (http)
+2020-02-05 16:06:55 - Starting service Tomcat
+2020-02-05 16:06:55 - Starting Servlet Engine: Apache Tomcat/8.5.6
+2020-02-05 16:06:56 - Initializing Spring embedded WebApplicationContext
+2020-02-05 16:06:56 - Root WebApplicationContext: initialization completed in 9604 ms
+2020-02-05 16:06:57 - Mapping filter: 'metricsFilter' to: [/*]
+2020-02-05 16:06:57 - Mapping filter: 'characterEncodingFilter' to: [/*]
+2020-02-05 16:06:57 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2020-02-05 16:06:57 - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2020-02-05 16:06:57 - Mapping filter: 'requestContextFilter' to: [/*]
+2020-02-05 16:06:57 - Mapping filter: 'springSecurityFilterChain' to: [/*]
+2020-02-05 16:06:57 - Mapping filter: 'webRequestLoggingFilter' to: [/*]
+2020-02-05 16:06:57 - Mapping filter: 'applicationContextIdFilter' to: [/*]
+2020-02-05 16:06:57 - Mapping servlet: 'dispatcherServlet' to [/]
+2020-02-05 16:06:58 - Building JPA container EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:07:07 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:07:11 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'apiDescriptionReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/ApiDescriptionReader.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+2020-02-05 16:07:11 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:07:11 - Stopping service Tomcat
+2020-02-05 16:07:11 - 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2020-02-05 16:07:11 - Application startup failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'apiDescriptionReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/ApiDescriptionReader.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:749)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:189)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1056)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:759)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:866)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:542)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:371)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1186)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1175)
+	at com.williams.assessment.AssessmentApplication.main(AssessmentApplication.java:10)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:279)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1056)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:207)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1136)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1064)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:835)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:741)
+	... 19 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:122)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:271)
+	... 32 common frames omitted
+Caused by: java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at springfox.documentation.spring.web.scanners.CachingOperationReader.<init>(CachingOperationReader.java:45)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142)
+	... 34 common frames omitted
+2020-02-05 16:07:43 - Starting AssessmentApplication on wsticks with PID 11024 (C:\Users\williamsondrums\Downloads\assessment\target\classes started by williamsondrums in C:\Users\williamsondrums\Downloads\assessment)
+2020-02-05 16:07:43 - No active profile set, falling back to default profiles: default
+2020-02-05 16:07:43 - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8d971b: startup date [Wed Feb 05 16:07:43 WAT 2020]; root of context hierarchy
+2020-02-05 16:07:49 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-02-05 16:07:49 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [class org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$200c0b47] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-02-05 16:07:51 - Tomcat initialized with port(s): 8680 (http)
+2020-02-05 16:07:51 - Starting service Tomcat
+2020-02-05 16:07:51 - Starting Servlet Engine: Apache Tomcat/8.5.6
+2020-02-05 16:07:51 - Initializing Spring embedded WebApplicationContext
+2020-02-05 16:07:51 - Root WebApplicationContext: initialization completed in 8383 ms
+2020-02-05 16:07:53 - Mapping filter: 'metricsFilter' to: [/*]
+2020-02-05 16:07:53 - Mapping filter: 'characterEncodingFilter' to: [/*]
+2020-02-05 16:07:53 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2020-02-05 16:07:53 - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2020-02-05 16:07:53 - Mapping filter: 'requestContextFilter' to: [/*]
+2020-02-05 16:07:53 - Mapping filter: 'springSecurityFilterChain' to: [/*]
+2020-02-05 16:07:53 - Mapping filter: 'webRequestLoggingFilter' to: [/*]
+2020-02-05 16:07:53 - Mapping filter: 'applicationContextIdFilter' to: [/*]
+2020-02-05 16:07:53 - Mapping servlet: 'dispatcherServlet' to [/]
+2020-02-05 16:07:54 - Building JPA container EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:08:02 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:08:06 - 
+
+Using default security password: 25a295da-73aa-4a4a-b1e6-6ca1bb9cf1b0
+
+2020-02-05 16:08:06 - Creating filter chain: OrRequestMatcher [requestMatchers=[Ant [pattern='/css/**'], Ant [pattern='/js/**'], Ant [pattern='/images/**'], Ant [pattern='/webjars/**'], Ant [pattern='/**/favicon.ico'], Ant [pattern='/error']]], []
+2020-02-05 16:08:06 - Creating filter chain: org.springframework.security.web.util.matcher.AnyRequestMatcher@1, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@f05307, org.springframework.security.web.context.SecurityContextPersistenceFilter@1f3e556, org.springframework.security.web.header.HeaderWriterFilter@8b9458, org.springframework.security.web.authentication.logout.LogoutFilter@110684a, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@511772, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1b4ec0c, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@1cc0505, org.springframework.security.web.session.SessionManagementFilter@1e60b71, org.springframework.security.web.access.ExceptionTranslationFilter@1d88c38, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1632442]
+2020-02-05 16:08:06 - Creating filter chain: org.springframework.boot.actuate.autoconfigure.ManagementWebSecurityAutoConfiguration$LazyEndpointPathRequestMatcher@19e120b, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@1d69983, org.springframework.security.web.context.SecurityContextPersistenceFilter@1f41739, org.springframework.security.web.header.HeaderWriterFilter@1778371, org.springframework.security.web.authentication.logout.LogoutFilter@4440f5, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@fc1aa, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@13b1124, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@286339, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@429a11, org.springframework.security.web.session.SessionManagementFilter@1beada8, org.springframework.security.web.access.ExceptionTranslationFilter@cfd794, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@33c093]
+2020-02-05 16:08:07 - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8d971b: startup date [Wed Feb 05 16:07:43 WAT 2020]; root of context hierarchy
+2020-02-05 16:08:07 - Mapped "{[/feedback],methods=[POST]}" onto public void com.williams.assessment.controller.FeedBackController.sendFeedback(com.williams.assessment.FeedBack,org.springframework.validation.BindingResult)
+2020-02-05 16:08:07 - Mapped "{[/student/{studentKey}],methods=[GET],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<com.williams.assessment.model.response.AssessmentApiResponse> com.williams.assessment.controller.StudentController.getStudent(java.lang.String,java.lang.String) throws com.williams.assessment.exception.AssessmentApiException
+2020-02-05 16:08:07 - Mapped "{[/student],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<com.williams.assessment.model.response.AssessmentApiResponse> com.williams.assessment.controller.StudentController.createStudent(java.lang.String,com.williams.assessment.model.request.UpsertStudentRequest) throws java.lang.Exception
+2020-02-05 16:08:07 - Mapped "{[/student/{studentKey}],methods=[PUT],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<com.williams.assessment.model.response.AssessmentApiResponse> com.williams.assessment.controller.StudentController.updateStudent(java.lang.String,java.lang.String,com.williams.assessment.model.request.UpsertStudentRequest) throws java.lang.Exception
+2020-02-05 16:08:07 - Mapped "{[/student],methods=[GET],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<com.williams.assessment.model.response.AssessmentApiResponse> com.williams.assessment.controller.StudentController.getAllStudent(java.lang.String,com.williams.assessment.model.request.StudentSearchRequest) throws com.williams.assessment.exception.AssessmentApiException
+2020-02-05 16:08:07 - Mapped "{[/subjects/{subjectKey}],methods=[GET],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<com.williams.assessment.model.response.AssessmentApiResponse> com.williams.assessment.controller.SubjectController.viewSubject(java.lang.String,java.lang.String)
+2020-02-05 16:08:07 - Mapped "{[/subjects],methods=[GET],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<com.williams.assessment.model.response.AssessmentApiResponse> com.williams.assessment.controller.SubjectController.viewSubjects(java.lang.String,com.williams.assessment.model.request.SubjectSearchRequest) throws java.lang.Exception
+2020-02-05 16:08:07 - Mapped "{[/subjects],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<com.williams.assessment.model.response.AssessmentApiResponse> com.williams.assessment.controller.SubjectController.createSubject(java.lang.String,com.williams.assessment.model.request.UpsertSubjectRequest) throws java.lang.Exception
+2020-02-05 16:08:07 - Mapped "{[/subjects/{subjectKey}],methods=[PUT],consumes=[application/json]}" onto public org.springframework.http.ResponseEntity<com.williams.assessment.model.response.AssessmentApiResponse> com.williams.assessment.controller.SubjectController.updateSubject(java.lang.String,java.lang.String,com.williams.assessment.model.request.UpsertSubjectRequest) throws java.lang.Exception
+2020-02-05 16:08:07 - Mapped "{[/records/{recordKey}],methods=[GET],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<com.williams.assessment.model.response.AssessmentApiResponse> com.williams.assessment.controller.SubjectRecordController.viewRecord(java.lang.String,java.lang.String) throws com.williams.assessment.exception.AssessmentApiException
+2020-02-05 16:08:07 - Mapped "{[/records],methods=[PUT],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<com.williams.assessment.model.response.AssessmentApiResponse> com.williams.assessment.controller.SubjectRecordController.updateRecord(java.lang.String,com.williams.assessment.model.request.SubjectRecordRequest) throws java.lang.Exception
+2020-02-05 16:08:07 - Mapped "{[/records],methods=[GET],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<com.williams.assessment.model.response.AssessmentApiResponse> com.williams.assessment.controller.SubjectRecordController.viewRecords(java.lang.String,com.williams.assessment.model.request.SubjectRecordSearchRequest) throws com.williams.assessment.exception.AssessmentApiException
+2020-02-05 16:08:07 - Mapped "{[/records],methods=[POST],consumes=[application/json],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<com.williams.assessment.model.response.AssessmentApiResponse> com.williams.assessment.controller.SubjectRecordController.createSubjectRecord(java.lang.String,com.williams.assessment.model.request.SubjectRecordRequest) throws java.lang.Exception
+2020-02-05 16:08:07 - Mapped "{[/v1/users/{userKey}],methods=[PUT],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<com.williams.assessment.model.response.AssessmentApiResponse> com.williams.assessment.controller.UserController.update(java.lang.String,com.williams.assessment.model.request.UpsertUserRequest,java.lang.String)
+2020-02-05 16:08:07 - Mapped "{[/v1/users/{userKey}],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<com.williams.assessment.model.response.AssessmentApiResponse> com.williams.assessment.controller.UserController.getUserInfo(java.lang.String,java.lang.String)
+2020-02-05 16:08:07 - Mapped "{[/v1/users/logout],methods=[POST],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<com.williams.assessment.model.response.AssessmentApiResponse> com.williams.assessment.controller.UserController.logout(java.lang.String)
+2020-02-05 16:08:07 - Mapped "{[/v1/users],methods=[GET],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<com.williams.assessment.model.response.AssessmentApiResponse> com.williams.assessment.controller.UserController.getUsers(java.lang.String,com.williams.assessment.model.request.UserSearchRequest) throws com.williams.assessment.exception.AssessmentApiException
+2020-02-05 16:08:07 - Mapped "{[/v1/users/authenticate],methods=[POST],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<com.williams.assessment.model.response.AssessmentApiResponse> com.williams.assessment.controller.UserController.authenticate(com.williams.assessment.model.request.AuthenticateUserRequest,org.springframework.validation.BindingResult) throws com.williams.assessment.exception.AssessmentApiException
+2020-02-05 16:08:07 - Mapped "{[/v1/users/passwordchange],methods=[POST],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<com.williams.assessment.model.response.AssessmentApiResponse> com.williams.assessment.controller.UserController.changePassword(com.williams.assessment.model.request.UpsertUserRequest,java.lang.String)
+2020-02-05 16:08:07 - Mapped "{[/v1/users],methods=[POST],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<com.williams.assessment.model.response.AssessmentApiResponse> com.williams.assessment.controller.UserController.toCreateUser(com.williams.assessment.model.request.UpsertUserRequest,org.springframework.validation.BindingResult)
+2020-02-05 16:08:07 - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2020-02-05 16:08:07 - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2020-02-05 16:08:07 - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2020-02-05 16:08:07 - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2020-02-05 16:08:08 - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2020-02-05 16:08:09 - Setting server pool to a list of 1 servers: [http://localhost:9200]
+2020-02-05 16:08:09 - Using single thread/connection supporting basic connection manager
+2020-02-05 16:08:09 - Using custom GSON instance
+2020-02-05 16:08:09 - Node Discovery disabled...
+2020-02-05 16:08:09 - Idle connection reaping disabled...
+2020-02-05 16:08:11 - Mapped "{[/heapdump || /heapdump.json],methods=[GET],produces=[application/octet-stream]}" onto public void org.springframework.boot.actuate.endpoint.mvc.HeapdumpMvcEndpoint.invoke(boolean,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.io.IOException,javax.servlet.ServletException
+2020-02-05 16:08:11 - Mapped "{[/health || /health.json],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.HealthMvcEndpoint.invoke(java.security.Principal)
+2020-02-05 16:08:11 - Mapped "{[/mappings || /mappings.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2020-02-05 16:08:11 - Mapped "{[/dump || /dump.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2020-02-05 16:08:11 - Mapped "{[/trace || /trace.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2020-02-05 16:08:11 - Mapped "{[/logfile || /logfile.json],methods=[GET || HEAD]}" onto public void org.springframework.boot.actuate.endpoint.mvc.LogFileMvcEndpoint.invoke(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException,java.io.IOException
+2020-02-05 16:08:11 - Mapped "{[/configprops || /configprops.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2020-02-05 16:08:11 - Mapped "{[/metrics/{name:.*}],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.MetricsMvcEndpoint.value(java.lang.String)
+2020-02-05 16:08:11 - Mapped "{[/metrics || /metrics.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2020-02-05 16:08:11 - Mapped "{[/info || /info.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2020-02-05 16:08:11 - Mapped "{[/autoconfig || /autoconfig.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2020-02-05 16:08:11 - Mapped "{[/env/{name:.*}],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EnvironmentMvcEndpoint.value(java.lang.String)
+2020-02-05 16:08:11 - Mapped "{[/env || /env.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2020-02-05 16:08:11 - Mapped "{[/beans || /beans.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2020-02-05 16:08:11 - Registering beans for JMX exposure on startup
+2020-02-05 16:08:11 - Registering beans for JMX exposure on startup
+2020-02-05 16:08:11 - Starting beans in phase 0
+2020-02-05 16:08:11 - Located managed bean 'requestMappingEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=requestMappingEndpoint]
+2020-02-05 16:08:11 - Located managed bean 'environmentEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=environmentEndpoint]
+2020-02-05 16:08:11 - Located managed bean 'healthEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=healthEndpoint]
+2020-02-05 16:08:12 - Located managed bean 'beansEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=beansEndpoint]
+2020-02-05 16:08:12 - Located managed bean 'infoEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=infoEndpoint]
+2020-02-05 16:08:12 - Located managed bean 'metricsEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=metricsEndpoint]
+2020-02-05 16:08:12 - Located managed bean 'traceEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=traceEndpoint]
+2020-02-05 16:08:12 - Located managed bean 'dumpEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=dumpEndpoint]
+2020-02-05 16:08:12 - Located managed bean 'autoConfigurationReportEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=autoConfigurationReportEndpoint]
+2020-02-05 16:08:12 - Located managed bean 'configurationPropertiesReportEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=configurationPropertiesReportEndpoint]
+2020-02-05 16:08:12 - Initializing ProtocolHandler ["http-nio-8680"]
+2020-02-05 16:08:12 - Starting ProtocolHandler [http-nio-8680]
+2020-02-05 16:08:12 - Using a shared selector for servlet write/read
+2020-02-05 16:08:12 - Tomcat started on port(s): 8680 (http)
+2020-02-05 16:08:12 - Started AssessmentApplication in 29.618 seconds (JVM running for 34.312)
+2020-02-05 16:11:18 - Starting AssessmentApplication on wsticks with PID 8632 (C:\Users\williamsondrums\Downloads\assessment\target\classes started by williamsondrums in C:\Users\williamsondrums\Downloads\assessment)
+2020-02-05 16:11:18 - No active profile set, falling back to default profiles: default
+2020-02-05 16:11:19 - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8d971b: startup date [Wed Feb 05 16:11:19 WAT 2020]; root of context hierarchy
+2020-02-05 16:11:26 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-02-05 16:11:26 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [class org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$f74c0d2b] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-02-05 16:11:28 - Tomcat initialized with port(s): 8680 (http)
+2020-02-05 16:11:28 - Starting service Tomcat
+2020-02-05 16:11:28 - Starting Servlet Engine: Apache Tomcat/8.5.6
+2020-02-05 16:11:28 - Initializing Spring embedded WebApplicationContext
+2020-02-05 16:11:28 - Root WebApplicationContext: initialization completed in 9711 ms
+2020-02-05 16:11:30 - Mapping filter: 'metricsFilter' to: [/*]
+2020-02-05 16:11:30 - Mapping filter: 'characterEncodingFilter' to: [/*]
+2020-02-05 16:11:30 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2020-02-05 16:11:30 - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2020-02-05 16:11:30 - Mapping filter: 'requestContextFilter' to: [/*]
+2020-02-05 16:11:30 - Mapping filter: 'springSecurityFilterChain' to: [/*]
+2020-02-05 16:11:30 - Mapping filter: 'webRequestLoggingFilter' to: [/*]
+2020-02-05 16:11:30 - Mapping filter: 'applicationContextIdFilter' to: [/*]
+2020-02-05 16:11:30 - Mapping servlet: 'dispatcherServlet' to [/]
+2020-02-05 16:11:31 - Building JPA container EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:11:38 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:11:42 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'apiDescriptionReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/ApiDescriptionReader.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+2020-02-05 16:11:42 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:11:42 - Stopping service Tomcat
+2020-02-05 16:11:42 - 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2020-02-05 16:11:42 - Application startup failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'apiDescriptionReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/ApiDescriptionReader.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:749)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:189)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1056)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:759)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:866)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:542)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:371)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1186)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1175)
+	at com.williams.assessment.AssessmentApplication.main(AssessmentApplication.java:10)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:279)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1056)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:207)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1136)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1064)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:835)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:741)
+	... 19 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:122)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:271)
+	... 32 common frames omitted
+Caused by: java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at springfox.documentation.spring.web.scanners.CachingOperationReader.<init>(CachingOperationReader.java:45)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142)
+	... 34 common frames omitted
+2020-02-05 16:12:49 - Starting AssessmentApplication on wsticks with PID 7028 (C:\Users\williamsondrums\Downloads\assessment\target\classes started by williamsondrums in C:\Users\williamsondrums\Downloads\assessment)
+2020-02-05 16:12:49 - No active profile set, falling back to default profiles: default
+2020-02-05 16:12:49 - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8d971b: startup date [Wed Feb 05 16:12:49 WAT 2020]; root of context hierarchy
+2020-02-05 16:12:56 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-02-05 16:12:56 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [class org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$513a7545] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-02-05 16:12:58 - Tomcat initialized with port(s): 8680 (http)
+2020-02-05 16:12:58 - Starting service Tomcat
+2020-02-05 16:12:58 - Starting Servlet Engine: Apache Tomcat/8.5.6
+2020-02-05 16:12:58 - Initializing Spring embedded WebApplicationContext
+2020-02-05 16:12:58 - Root WebApplicationContext: initialization completed in 9658 ms
+2020-02-05 16:13:00 - Mapping filter: 'metricsFilter' to: [/*]
+2020-02-05 16:13:00 - Mapping filter: 'characterEncodingFilter' to: [/*]
+2020-02-05 16:13:00 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2020-02-05 16:13:00 - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2020-02-05 16:13:00 - Mapping filter: 'requestContextFilter' to: [/*]
+2020-02-05 16:13:00 - Mapping filter: 'springSecurityFilterChain' to: [/*]
+2020-02-05 16:13:00 - Mapping filter: 'webRequestLoggingFilter' to: [/*]
+2020-02-05 16:13:00 - Mapping filter: 'applicationContextIdFilter' to: [/*]
+2020-02-05 16:13:00 - Mapping servlet: 'dispatcherServlet' to [/]
+2020-02-05 16:13:01 - Building JPA container EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:13:10 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:13:15 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'apiDescriptionReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/ApiDescriptionReader.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+2020-02-05 16:13:15 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:13:15 - Stopping service Tomcat
+2020-02-05 16:13:15 - 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2020-02-05 16:13:15 - Application startup failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'apiDescriptionReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/ApiDescriptionReader.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:749)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:189)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1056)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:759)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:866)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:542)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:371)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1186)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1175)
+	at com.williams.assessment.AssessmentApplication.main(AssessmentApplication.java:10)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:279)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1056)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:207)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1136)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1064)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:835)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:741)
+	... 19 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:122)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:271)
+	... 32 common frames omitted
+Caused by: java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at springfox.documentation.spring.web.scanners.CachingOperationReader.<init>(CachingOperationReader.java:45)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142)
+	... 34 common frames omitted
+2020-02-05 16:14:25 - Starting AssessmentApplication on wsticks with PID 9852 (C:\Users\williamsondrums\Downloads\assessment\target\classes started by williamsondrums in C:\Users\williamsondrums\Downloads\assessment)
+2020-02-05 16:14:25 - No active profile set, falling back to default profiles: default
+2020-02-05 16:14:25 - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8d971b: startup date [Wed Feb 05 16:14:25 WAT 2020]; root of context hierarchy
+2020-02-05 16:14:33 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-02-05 16:14:33 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [class org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$cf581f6e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-02-05 16:14:35 - Tomcat initialized with port(s): 8680 (http)
+2020-02-05 16:14:35 - Starting service Tomcat
+2020-02-05 16:14:35 - Starting Servlet Engine: Apache Tomcat/8.5.6
+2020-02-05 16:14:35 - Initializing Spring embedded WebApplicationContext
+2020-02-05 16:14:35 - Root WebApplicationContext: initialization completed in 10333 ms
+2020-02-05 16:14:37 - Mapping filter: 'metricsFilter' to: [/*]
+2020-02-05 16:14:37 - Mapping filter: 'characterEncodingFilter' to: [/*]
+2020-02-05 16:14:37 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2020-02-05 16:14:37 - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2020-02-05 16:14:37 - Mapping filter: 'requestContextFilter' to: [/*]
+2020-02-05 16:14:37 - Mapping filter: 'springSecurityFilterChain' to: [/*]
+2020-02-05 16:14:37 - Mapping filter: 'webRequestLoggingFilter' to: [/*]
+2020-02-05 16:14:37 - Mapping filter: 'applicationContextIdFilter' to: [/*]
+2020-02-05 16:14:37 - Mapping servlet: 'dispatcherServlet' to [/]
+2020-02-05 16:14:38 - Building JPA container EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:14:46 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:14:50 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'apiDescriptionReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/ApiDescriptionReader.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+2020-02-05 16:14:50 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:14:50 - Stopping service Tomcat
+2020-02-05 16:14:50 - 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2020-02-05 16:14:50 - Application startup failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'apiDescriptionReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/ApiDescriptionReader.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:749)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:189)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1056)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:759)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:866)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:542)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:371)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1186)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1175)
+	at com.williams.assessment.AssessmentApplication.main(AssessmentApplication.java:10)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:279)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1056)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:207)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1136)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1064)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:835)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:741)
+	... 19 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:122)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:271)
+	... 32 common frames omitted
+Caused by: java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at springfox.documentation.spring.web.scanners.CachingOperationReader.<init>(CachingOperationReader.java:45)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142)
+	... 34 common frames omitted
+2020-02-05 16:16:45 - Starting AssessmentApplication on wsticks with PID 7272 (C:\Users\williamsondrums\Downloads\assessment\target\classes started by williamsondrums in C:\Users\williamsondrums\Downloads\assessment)
+2020-02-05 16:16:45 - No active profile set, falling back to default profiles: default
+2020-02-05 16:16:45 - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8d971b: startup date [Wed Feb 05 16:16:45 WAT 2020]; root of context hierarchy
+2020-02-05 16:16:52 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-02-05 16:16:53 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [class org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$513a7545] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-02-05 16:16:54 - Tomcat initialized with port(s): 8680 (http)
+2020-02-05 16:16:54 - Starting service Tomcat
+2020-02-05 16:16:54 - Starting Servlet Engine: Apache Tomcat/8.5.6
+2020-02-05 16:16:55 - Initializing Spring embedded WebApplicationContext
+2020-02-05 16:16:55 - Root WebApplicationContext: initialization completed in 9575 ms
+2020-02-05 16:16:56 - Mapping filter: 'metricsFilter' to: [/*]
+2020-02-05 16:16:56 - Mapping filter: 'characterEncodingFilter' to: [/*]
+2020-02-05 16:16:56 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2020-02-05 16:16:56 - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2020-02-05 16:16:56 - Mapping filter: 'requestContextFilter' to: [/*]
+2020-02-05 16:16:56 - Mapping filter: 'springSecurityFilterChain' to: [/*]
+2020-02-05 16:16:56 - Mapping filter: 'webRequestLoggingFilter' to: [/*]
+2020-02-05 16:16:56 - Mapping filter: 'applicationContextIdFilter' to: [/*]
+2020-02-05 16:16:56 - Mapping servlet: 'dispatcherServlet' to [/]
+2020-02-05 16:16:57 - Building JPA container EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:17:05 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:17:10 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'apiDescriptionReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/ApiDescriptionReader.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+2020-02-05 16:17:10 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:17:10 - Stopping service Tomcat
+2020-02-05 16:17:10 - 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2020-02-05 16:17:10 - Application startup failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'apiDescriptionReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/ApiDescriptionReader.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:749)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:189)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1056)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:759)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:866)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:542)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:371)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1186)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1175)
+	at com.williams.assessment.AssessmentApplication.main(AssessmentApplication.java:10)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:279)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1056)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:207)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1136)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1064)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:835)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:741)
+	... 19 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:122)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:271)
+	... 32 common frames omitted
+Caused by: java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at springfox.documentation.spring.web.scanners.CachingOperationReader.<init>(CachingOperationReader.java:45)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142)
+	... 34 common frames omitted
+2020-02-05 16:19:17 - Starting AssessmentApplication on wsticks with PID 9516 (C:\Users\williamsondrums\Downloads\assessment\target\classes started by williamsondrums in C:\Users\williamsondrums\Downloads\assessment)
+2020-02-05 16:19:17 - No active profile set, falling back to default profiles: default
+2020-02-05 16:19:18 - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8d971b: startup date [Wed Feb 05 16:19:18 WAT 2020]; root of context hierarchy
+2020-02-05 16:19:25 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-02-05 16:19:26 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [class org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$f47abef4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-02-05 16:19:28 - Tomcat initialized with port(s): 8680 (http)
+2020-02-05 16:19:28 - Starting service Tomcat
+2020-02-05 16:19:28 - Starting Servlet Engine: Apache Tomcat/8.5.6
+2020-02-05 16:19:29 - Initializing Spring embedded WebApplicationContext
+2020-02-05 16:19:29 - Root WebApplicationContext: initialization completed in 11202 ms
+2020-02-05 16:19:30 - Mapping filter: 'metricsFilter' to: [/*]
+2020-02-05 16:19:30 - Mapping filter: 'characterEncodingFilter' to: [/*]
+2020-02-05 16:19:30 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2020-02-05 16:19:30 - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2020-02-05 16:19:30 - Mapping filter: 'requestContextFilter' to: [/*]
+2020-02-05 16:19:30 - Mapping filter: 'springSecurityFilterChain' to: [/*]
+2020-02-05 16:19:30 - Mapping filter: 'webRequestLoggingFilter' to: [/*]
+2020-02-05 16:19:30 - Mapping filter: 'applicationContextIdFilter' to: [/*]
+2020-02-05 16:19:30 - Mapping servlet: 'dispatcherServlet' to [/]
+2020-02-05 16:19:32 - Building JPA container EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:19:42 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:19:46 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'apiDescriptionReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/ApiDescriptionReader.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+2020-02-05 16:19:46 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:19:46 - Stopping service Tomcat
+2020-02-05 16:19:47 - 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2020-02-05 16:19:47 - Application startup failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'apiDescriptionReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/ApiDescriptionReader.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:749)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:189)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1056)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:759)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:866)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:542)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:371)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1186)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1175)
+	at com.williams.assessment.AssessmentApplication.main(AssessmentApplication.java:10)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:279)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1056)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:207)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1136)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1064)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:835)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:741)
+	... 19 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:122)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:271)
+	... 32 common frames omitted
+Caused by: java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at springfox.documentation.spring.web.scanners.CachingOperationReader.<init>(CachingOperationReader.java:45)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142)
+	... 34 common frames omitted
+2020-02-05 16:21:12 - Starting AssessmentApplication on wsticks with PID 12988 (C:\Users\williamsondrums\Downloads\assessment\target\classes started by williamsondrums in C:\Users\williamsondrums\Downloads\assessment)
+2020-02-05 16:21:12 - No active profile set, falling back to default profiles: default
+2020-02-05 16:21:12 - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8d971b: startup date [Wed Feb 05 16:21:12 WAT 2020]; root of context hierarchy
+2020-02-05 16:21:19 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-02-05 16:21:20 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [class org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$bfa37c49] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-02-05 16:21:21 - Tomcat initialized with port(s): 8680 (http)
+2020-02-05 16:21:21 - Starting service Tomcat
+2020-02-05 16:21:21 - Starting Servlet Engine: Apache Tomcat/8.5.6
+2020-02-05 16:21:22 - Initializing Spring embedded WebApplicationContext
+2020-02-05 16:21:22 - Root WebApplicationContext: initialization completed in 9788 ms
+2020-02-05 16:21:23 - Mapping filter: 'metricsFilter' to: [/*]
+2020-02-05 16:21:23 - Mapping filter: 'characterEncodingFilter' to: [/*]
+2020-02-05 16:21:23 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2020-02-05 16:21:23 - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2020-02-05 16:21:23 - Mapping filter: 'requestContextFilter' to: [/*]
+2020-02-05 16:21:23 - Mapping filter: 'springSecurityFilterChain' to: [/*]
+2020-02-05 16:21:23 - Mapping filter: 'webRequestLoggingFilter' to: [/*]
+2020-02-05 16:21:23 - Mapping filter: 'applicationContextIdFilter' to: [/*]
+2020-02-05 16:21:23 - Mapping servlet: 'dispatcherServlet' to [/]
+2020-02-05 16:21:24 - Building JPA container EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:21:34 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:21:38 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'apiDescriptionReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/ApiDescriptionReader.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+2020-02-05 16:21:38 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:21:38 - Stopping service Tomcat
+2020-02-05 16:21:38 - 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2020-02-05 16:21:38 - Application startup failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'apiDescriptionReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/ApiDescriptionReader.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:749)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:189)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1056)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:759)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:866)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:542)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:371)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1186)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1175)
+	at com.williams.assessment.AssessmentApplication.main(AssessmentApplication.java:10)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:279)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1056)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:207)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1136)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1064)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:835)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:741)
+	... 19 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:122)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:271)
+	... 32 common frames omitted
+Caused by: java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at springfox.documentation.spring.web.scanners.CachingOperationReader.<init>(CachingOperationReader.java:45)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142)
+	... 34 common frames omitted
+2020-02-05 16:31:41 - Starting AssessmentApplication on wsticks with PID 8784 (C:\Users\williamsondrums\Downloads\assessment\target\classes started by williamsondrums in C:\Users\williamsondrums\Downloads\assessment)
+2020-02-05 16:31:41 - No active profile set, falling back to default profiles: default
+2020-02-05 16:31:41 - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8d971b: startup date [Wed Feb 05 16:31:41 WAT 2020]; root of context hierarchy
+2020-02-05 16:31:49 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-02-05 16:31:50 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [class org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$f47abef4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-02-05 16:31:51 - Tomcat initialized with port(s): 8680 (http)
+2020-02-05 16:31:51 - Starting service Tomcat
+2020-02-05 16:31:51 - Starting Servlet Engine: Apache Tomcat/8.5.6
+2020-02-05 16:31:52 - Initializing Spring embedded WebApplicationContext
+2020-02-05 16:31:52 - Root WebApplicationContext: initialization completed in 10367 ms
+2020-02-05 16:31:54 - Mapping filter: 'metricsFilter' to: [/*]
+2020-02-05 16:31:54 - Mapping filter: 'characterEncodingFilter' to: [/*]
+2020-02-05 16:31:54 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2020-02-05 16:31:54 - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2020-02-05 16:31:54 - Mapping filter: 'requestContextFilter' to: [/*]
+2020-02-05 16:31:54 - Mapping filter: 'springSecurityFilterChain' to: [/*]
+2020-02-05 16:31:54 - Mapping filter: 'webRequestLoggingFilter' to: [/*]
+2020-02-05 16:31:54 - Mapping filter: 'applicationContextIdFilter' to: [/*]
+2020-02-05 16:31:54 - Mapping servlet: 'dispatcherServlet' to [/]
+2020-02-05 16:31:55 - Building JPA container EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:32:03 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:32:07 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'apiDescriptionReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/ApiDescriptionReader.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+2020-02-05 16:32:07 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:32:07 - Stopping service Tomcat
+2020-02-05 16:32:07 - 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2020-02-05 16:32:07 - Application startup failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'apiDescriptionReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/ApiDescriptionReader.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:749)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:189)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1056)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:759)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:866)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:542)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:371)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1186)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1175)
+	at com.williams.assessment.AssessmentApplication.main(AssessmentApplication.java:10)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:279)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1056)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:207)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1136)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1064)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:835)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:741)
+	... 19 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:122)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:271)
+	... 32 common frames omitted
+Caused by: java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at springfox.documentation.spring.web.scanners.CachingOperationReader.<init>(CachingOperationReader.java:45)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142)
+	... 34 common frames omitted
+2020-02-05 16:32:55 - Starting AssessmentApplication on wsticks with PID 9364 (C:\Users\williamsondrums\Downloads\assessment\target\classes started by williamsondrums in C:\Users\williamsondrums\Downloads\assessment)
+2020-02-05 16:32:55 - No active profile set, falling back to default profiles: default
+2020-02-05 16:32:55 - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8d971b: startup date [Wed Feb 05 16:32:55 WAT 2020]; root of context hierarchy
+2020-02-05 16:33:02 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-02-05 16:33:03 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [class org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$75583959] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-02-05 16:33:05 - Tomcat initialized with port(s): 8680 (http)
+2020-02-05 16:33:05 - Starting service Tomcat
+2020-02-05 16:33:05 - Starting Servlet Engine: Apache Tomcat/8.5.6
+2020-02-05 16:33:06 - Initializing Spring embedded WebApplicationContext
+2020-02-05 16:33:06 - Root WebApplicationContext: initialization completed in 10465 ms
+2020-02-05 16:33:07 - Mapping filter: 'metricsFilter' to: [/*]
+2020-02-05 16:33:07 - Mapping filter: 'characterEncodingFilter' to: [/*]
+2020-02-05 16:33:07 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2020-02-05 16:33:07 - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2020-02-05 16:33:07 - Mapping filter: 'requestContextFilter' to: [/*]
+2020-02-05 16:33:07 - Mapping filter: 'springSecurityFilterChain' to: [/*]
+2020-02-05 16:33:07 - Mapping filter: 'webRequestLoggingFilter' to: [/*]
+2020-02-05 16:33:07 - Mapping filter: 'applicationContextIdFilter' to: [/*]
+2020-02-05 16:33:07 - Mapping servlet: 'dispatcherServlet' to [/]
+2020-02-05 16:33:08 - Building JPA container EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:33:17 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:33:21 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'apiDescriptionReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/ApiDescriptionReader.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+2020-02-05 16:33:21 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:33:21 - Stopping service Tomcat
+2020-02-05 16:33:21 - 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2020-02-05 16:33:21 - Application startup failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'apiDescriptionReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/ApiDescriptionReader.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:749)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:189)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1056)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:759)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:866)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:542)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:371)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1186)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1175)
+	at com.williams.assessment.AssessmentApplication.main(AssessmentApplication.java:10)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:279)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1056)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:207)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1136)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1064)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:835)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:741)
+	... 19 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:122)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:271)
+	... 32 common frames omitted
+Caused by: java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at springfox.documentation.spring.web.scanners.CachingOperationReader.<init>(CachingOperationReader.java:45)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142)
+	... 34 common frames omitted
+2020-02-05 16:34:03 - Starting AssessmentApplication on wsticks with PID 9728 (C:\Users\williamsondrums\Downloads\assessment\target\classes started by williamsondrums in C:\Users\williamsondrums\Downloads\assessment)
+2020-02-05 16:34:03 - No active profile set, falling back to default profiles: default
+2020-02-05 16:34:03 - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8d971b: startup date [Wed Feb 05 16:34:03 WAT 2020]; root of context hierarchy
+2020-02-05 16:34:10 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-02-05 16:34:11 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [class org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$2a8bfbc5] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-02-05 16:34:12 - Tomcat initialized with port(s): 8680 (http)
+2020-02-05 16:34:12 - Starting service Tomcat
+2020-02-05 16:34:12 - Starting Servlet Engine: Apache Tomcat/8.5.6
+2020-02-05 16:34:13 - Initializing Spring embedded WebApplicationContext
+2020-02-05 16:34:13 - Root WebApplicationContext: initialization completed in 9787 ms
+2020-02-05 16:34:14 - Mapping filter: 'metricsFilter' to: [/*]
+2020-02-05 16:34:14 - Mapping filter: 'characterEncodingFilter' to: [/*]
+2020-02-05 16:34:14 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2020-02-05 16:34:14 - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2020-02-05 16:34:14 - Mapping filter: 'requestContextFilter' to: [/*]
+2020-02-05 16:34:14 - Mapping filter: 'springSecurityFilterChain' to: [/*]
+2020-02-05 16:34:14 - Mapping filter: 'webRequestLoggingFilter' to: [/*]
+2020-02-05 16:34:14 - Mapping filter: 'applicationContextIdFilter' to: [/*]
+2020-02-05 16:34:14 - Mapping servlet: 'dispatcherServlet' to [/]
+2020-02-05 16:34:15 - Building JPA container EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:34:25 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:34:30 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'apiDescriptionReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/ApiDescriptionReader.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+2020-02-05 16:34:30 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:34:30 - Stopping service Tomcat
+2020-02-05 16:34:30 - 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2020-02-05 16:34:30 - Application startup failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'apiDescriptionReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/ApiDescriptionReader.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:749)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:189)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1056)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:759)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:866)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:542)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:371)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1186)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1175)
+	at com.williams.assessment.AssessmentApplication.main(AssessmentApplication.java:10)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:279)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1056)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:207)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1136)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1064)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:835)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:741)
+	... 19 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:122)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:271)
+	... 32 common frames omitted
+Caused by: java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at springfox.documentation.spring.web.scanners.CachingOperationReader.<init>(CachingOperationReader.java:45)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142)
+	... 34 common frames omitted
+2020-02-05 16:52:39 - Starting AssessmentApplication on wsticks with PID 7732 (C:\Users\williamsondrums\Downloads\assessment\target\classes started by williamsondrums in C:\Users\williamsondrums\Downloads\assessment)
+2020-02-05 16:52:39 - No active profile set, falling back to default profiles: default
+2020-02-05 16:52:39 - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@8d971b: startup date [Wed Feb 05 16:52:39 WAT 2020]; root of context hierarchy
+2020-02-05 16:52:48 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2020-02-05 16:52:49 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [class org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$b5965665] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2020-02-05 16:52:51 - Tomcat initialized with port(s): 8680 (http)
+2020-02-05 16:52:51 - Starting service Tomcat
+2020-02-05 16:52:51 - Starting Servlet Engine: Apache Tomcat/8.5.6
+2020-02-05 16:52:52 - Initializing Spring embedded WebApplicationContext
+2020-02-05 16:52:52 - Root WebApplicationContext: initialization completed in 13401 ms
+2020-02-05 16:52:54 - Mapping filter: 'metricsFilter' to: [/*]
+2020-02-05 16:52:54 - Mapping filter: 'characterEncodingFilter' to: [/*]
+2020-02-05 16:52:54 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2020-02-05 16:52:54 - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2020-02-05 16:52:54 - Mapping filter: 'requestContextFilter' to: [/*]
+2020-02-05 16:52:54 - Mapping filter: 'springSecurityFilterChain' to: [/*]
+2020-02-05 16:52:54 - Mapping filter: 'webRequestLoggingFilter' to: [/*]
+2020-02-05 16:52:54 - Mapping filter: 'applicationContextIdFilter' to: [/*]
+2020-02-05 16:52:54 - Mapping servlet: 'dispatcherServlet' to [/]
+2020-02-05 16:52:56 - Building JPA container EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:53:04 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:53:08 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'apiDescriptionReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/ApiDescriptionReader.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+2020-02-05 16:53:08 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2020-02-05 16:53:08 - Stopping service Tomcat
+2020-02-05 16:53:08 - 
+
+Error starting ApplicationContext. To display the auto-configuration report re-run your application with 'debug' enabled.
+2020-02-05 16:53:08 - Application startup failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'apiDescriptionReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/ApiDescriptionReader.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:749)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:189)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1056)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:759)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:866)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:542)
+	at org.springframework.boot.context.embedded.EmbeddedWebApplicationContext.refresh(EmbeddedWebApplicationContext.java:122)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:761)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:371)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1186)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1175)
+	at com.williams.assessment.AssessmentApplication.main(AssessmentApplication.java:10)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'cachingOperationReader' defined in URL [jar:file:/C:/Users/williamsondrums/.m2/repository/io/springfox/springfox-spring-web/2.6.1/springfox-spring-web-2.6.1.jar!/springfox/documentation/spring/web/scanners/CachingOperationReader.class]: Bean instantiation via constructor failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:279)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1154)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1056)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:207)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1136)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1064)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:835)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:741)
+	... 19 common frames omitted
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.scanners.CachingOperationReader]: Constructor threw exception; nested exception is java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:122)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:271)
+	... 32 common frames omitted
+Caused by: java.lang.NoSuchMethodError: com.google.common.cache.CacheBuilder.maximumSize(J)Lcom/google/common/cache/CacheBuilder;
+	at springfox.documentation.spring.web.scanners.CachingOperationReader.<init>(CachingOperationReader.java:45)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142)
+	... 34 common frames omitted

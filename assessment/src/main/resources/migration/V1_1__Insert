@@ -1,0 +1,112 @@
+
+  insert  into role (unique_key, name, description, created_at, updated_at, status, is_hidden)
+values ('9fa738f491aefd5636ee76ff8971303e','admin','Admin Role','2016-12-09 04:39:05','2016-12-09 04:39:05','ACTIVE','ACTIVE');
+
+ insert  into role (unique_key, name, description, created_at, updated_at, status, is_hidden)
+values ('7c870ce19c72d18603a476dfa12f61f7','Merchant Admin','Merchant Admin','2016-12-09 04:39:05','2016-12-09 04:39:05','ACTIVE','ACTIVE');
+
+  insert  into role (unique_key, name, description, created_at, updated_at, status, is_hidden)
+values ('7c870ce19c72d18603a476dfa12f61g8','User ','User ','2016-12-09 04:39:05','2016-12-09 04:39:05','ACTIVE','ACTIVE');
+
+insert into [user] ( unique_key, first_name, last_name, email, role_id, phone, password, status, last_login_date, created_at, updated_at, address)
+values('04d7f12d01b8e8ccaeb057bdab27778a', 'Root', 'Admin', 'admin@xpresspayments.com', '9fa738f491aefd5636ee76ff8971303e', '2348022334455', '$2a$10$SSGM0k3.TtkWSMRGG4rEA.P.PWAdsZDk8PyPP/7qcveWW7jneA7Kq', 'ACTIVE' ,NULL, '2018-03-08 09:18:23', NULL, '23 Oba Akinjobi Street Ikeja GRA Lagos');
+
+
+
+
+  insert  into permission (name , description, code, status, is_hidden) values
+('Create User','','user_create','ACTIVE','ACTIVE'),
+('Update User','','user_update','ACTIVE','ACTIVE'),
+('View User','','user_view','ACTIVE','ACTIVE'),
+('View All Users','','user_index','ACTIVE','ACTIVE'),
+('Create Role','','role_create','ACTIVE','ACTIVE'),
+('Update Role','','role_update','ACTIVE','ACTIVE'),
+('View Role ','','role_view','ACTIVE','ACTIVE'),
+('View All Roles','','role_index','ACTIVE','ACTIVE'),
+('View Permissions','','role_viewpermissions','ACTIVE','ACTIVE'),
+('View Roles Permissions','','role_viewrolepermissions','ACTIVE','ACTIVE'),
+('Update Student','','student_update','ACTIVE','ACTIVE'),
+('View Student','','student_view','ACTIVE','ACTIVE'),
+('View All Student','','student_index','ACTIVE','ACTIVE'),
+('Create Student','','student_create','ACTIVE','ACTIVE'),
+('Update Subject','','subject_update','ACTIVE','ACTIVE'),
+('View Subject','','subject_view','ACTIVE','ACTIVE'),
+('View All Subjects','','subject_index','ACTIVE','ACTIVE'),
+('Create Subject','','subject_create','ACTIVE','ACTIVE');
+
+
+
+
+
+  insert  into role_permission (role_id, permission_id, status, created_at, updated_at)
+values (1,1,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+ (1,2,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+ (1,3,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+ (1,4,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+ (1,5,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+ (1,6,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+ (1,7,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+ (1,8,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+ (1,9,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+ (1,10,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+ (1,11,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+  (1,12,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+  (1,13,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+  (1,14,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+  (1,15,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+  (1,16,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+  (1,17,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+  (1,18,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+  (1,19,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+  (1,20,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+   (1,21,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+   (1,22,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+   (1,23,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+   (1,24,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+   (1,25,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+   (1,26,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+   (1,27,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+   (1,28,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06');
+
+
+ INSERT INTO notification_template (action, channel, template, fields, subject, created_at, is_active)
+ VALUES
+ ('FORGOT_PASSWORD', 'EMAIL', 'xpresspay_forgot_password_success', 'email,copyrightYear,firstname,resetPasswordLink', 'Forgot Password', '2018-11-12 11:18:24.590', 1),
+ ('PASSWORD_CHANGE', 'EMAIL', 'xpresspay_change_password_success', 'email,copyrightYear,firstname,resetPasswordLink,securityLogLink,supportPhoneNumber', 'Your Xpresspayonline password was successfully changed', '2018-11-12 11:18:24.590', 1),
+ ('ADD_DELETE_USER', 'EMAIL', 'xpresspay_add_and_delete_user_success', 'email,copyrightYear,resetPasswordLink', 'You have successfully added/deleted a user', '2018-11-12 11:18:24.590', 1),
+ ('OTP', 'EMAIL', 'xpresspay_token_success', 'email,copyrightYear,firstname,lastname,token,supportPhoneNumber', 'One Time Password', '2018-11-12 11:18:24.590', 1),
+ ('LOGIN_ALERT', 'EMAIL', 'xpresspay_login_alert_success', 'email,copyrightYear,firstName,dayAndTimeInfo', 'Your login account was just accessed', '2018-11-12 11:18:24.590', 1),
+ ('SIGN_UP', 'EMAIL', 'xpresspay_registration_success', 'email,copyrightYear,firstName,resetPasswordLink', 'Welcome to Xpresspayonline', '2018-11-12 11:18:24.590', 1),
+ ('INVITE_USER', 'EMAIL', 'xpresspay_invite_user_success', 'email,copyrightYear,firstname,resetPasswordLink', 'Xpresspayonline Invitation', '2018-11-12 11:18:24.590', 1);
+
+
+  insert  into role_permission (role_id, permission_id, status, created_at, updated_at)
+values (2,1,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+(2,2,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+ (2,3,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+ (2,4,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+ (2,5,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+ (2,6,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+ (2,7,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+ (2,8,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+ (2,9,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+ (2,10,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+ (2,11,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+  (2,12,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+  (2,13,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+  (2,14,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+  (2,15,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+  (2,16,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+  (2,17,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+  (2,18,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+  (2,19,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+  (2,20,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+   (2,21,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+   (2,22,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+   (2,23,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+   (2,24,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+   (2,25,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+   (2,26,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+   (2,27,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06'),
+   (2,28,'ACTIVE','2018-02-20 20:01:06','2018-02-20 20:01:06');
+

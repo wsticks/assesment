@@ -1,0 +1,164 @@
+2019-12-26 12:05:39 - Starting AssessmentApplication on wsticks with PID 14100 (C:\Users\williamsondrums\Downloads\assessment\target\classes started by williamsondrums in C:\Users\williamsondrums\Downloads\assessment)
+2019-12-26 12:05:39 - No active profile set, falling back to default profiles: default
+2019-12-26 12:05:40 - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@1474f18: startup date [Thu Dec 26 12:05:40 WAT 2019]; root of context hierarchy
+2019-12-26 12:05:40 - HV000001: Hibernate Validator 5.2.4.Final
+2019-12-26 12:05:43 - Overriding bean definition for bean 'ignoredPathsWebSecurityConfigurerAdapter' with a different definition: replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.boot.autoconfigure.security.SpringBootWebSecurityConfiguration; factoryMethodName=ignoredPathsWebSecurityConfigurerAdapter; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/boot/autoconfigure/security/SpringBootWebSecurityConfiguration.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.boot.actuate.autoconfigure.ManagementWebSecurityAutoConfiguration; factoryMethodName=ignoredPathsWebSecurityConfigurerAdapter; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/boot/actuate/autoconfigure/ManagementWebSecurityAutoConfiguration.class]]
+2019-12-26 12:05:45 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-12-26 12:05:45 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [class org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$cb38feb0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-12-26 12:05:47 - Tomcat initialized with port(s): 8080 (http)
+2019-12-26 12:05:47 - Starting service Tomcat
+2019-12-26 12:05:47 - Starting Servlet Engine: Apache Tomcat/8.5.6
+2019-12-26 12:05:48 - Initializing Spring embedded WebApplicationContext
+2019-12-26 12:05:48 - Root WebApplicationContext: initialization completed in 8009 ms
+2019-12-26 12:05:49 - Mapping filter: 'metricsFilter' to: [/*]
+2019-12-26 12:05:49 - Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-12-26 12:05:49 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-12-26 12:05:49 - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-12-26 12:05:49 - Mapping filter: 'requestContextFilter' to: [/*]
+2019-12-26 12:05:49 - Mapping filter: 'springSecurityFilterChain' to: [/*]
+2019-12-26 12:05:49 - Mapping filter: 'webRequestLoggingFilter' to: [/*]
+2019-12-26 12:05:49 - Mapping filter: 'applicationContextIdFilter' to: [/*]
+2019-12-26 12:05:49 - Mapping servlet: 'dispatcherServlet' to [/]
+2019-12-26 12:05:50 - Building JPA container EntityManagerFactory for persistence unit 'default'
+2019-12-26 12:05:50 - HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-12-26 12:05:50 - HHH000412: Hibernate Core {5.0.11.Final}
+2019-12-26 12:05:50 - HHH000206: hibernate.properties not found
+2019-12-26 12:05:50 - HHH000021: Bytecode provider name : javassist
+2019-12-26 12:05:51 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2019-12-26 12:05:51 - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2019-12-26 12:05:52 - HHH000227: Running hbm2ddl schema export
+2019-12-26 12:05:52 - HHH000230: Schema export complete
+2019-12-26 12:05:52 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-12-26 12:05:54 - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@1474f18: startup date [Thu Dec 26 12:05:40 WAT 2019]; root of context hierarchy
+2019-12-26 12:05:55 - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-12-26 12:05:55 - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-12-26 12:05:55 - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-12-26 12:05:55 - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-12-26 12:05:56 - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-12-26 12:05:57 - 
+
+Using default security password: 2fbbffd2-6188-41f2-a42a-b1f207fb20de
+
+2019-12-26 12:05:57 - Creating filter chain: OrRequestMatcher [requestMatchers=[Ant [pattern='/css/**'], Ant [pattern='/js/**'], Ant [pattern='/images/**'], Ant [pattern='/webjars/**'], Ant [pattern='/**/favicon.ico'], Ant [pattern='/error']]], []
+2019-12-26 12:05:58 - Creating filter chain: org.springframework.boot.actuate.autoconfigure.ManagementWebSecurityAutoConfiguration$LazyEndpointPathRequestMatcher@1ab97fd, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@9b41a0, org.springframework.security.web.context.SecurityContextPersistenceFilter@1be91eb, org.springframework.security.web.header.HeaderWriterFilter@1e10fb4, org.springframework.security.web.authentication.logout.LogoutFilter@1a9aa68, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@a1aa52, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4ce74c, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@136c1c3, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@1e46d52, org.springframework.security.web.session.SessionManagementFilter@c7b1c6, org.springframework.security.web.access.ExceptionTranslationFilter@59a0f7, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1b5b890]
+2019-12-26 12:05:58 - Creating filter chain: OrRequestMatcher [requestMatchers=[Ant [pattern='/**']]], [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@c85a25, org.springframework.security.web.context.SecurityContextPersistenceFilter@1002b34, org.springframework.security.web.header.HeaderWriterFilter@fb8e98, org.springframework.security.web.authentication.logout.LogoutFilter@f154cc, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@30836d, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@c88aa1, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@6748ae, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@176ff1, org.springframework.security.web.session.SessionManagementFilter@1193335, org.springframework.security.web.access.ExceptionTranslationFilter@a5bd48, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@3b3aa0]
+2019-12-26 12:06:01 - Setting server pool to a list of 1 servers: [http://localhost:9200]
+2019-12-26 12:06:01 - Using single thread/connection supporting basic connection manager
+2019-12-26 12:06:02 - Using custom GSON instance
+2019-12-26 12:06:02 - Node Discovery disabled...
+2019-12-26 12:06:02 - Idle connection reaping disabled...
+2019-12-26 12:06:03 - Mapped "{[/mappings || /mappings.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-12-26 12:06:03 - Mapped "{[/autoconfig || /autoconfig.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-12-26 12:06:03 - Mapped "{[/heapdump || /heapdump.json],methods=[GET],produces=[application/octet-stream]}" onto public void org.springframework.boot.actuate.endpoint.mvc.HeapdumpMvcEndpoint.invoke(boolean,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.io.IOException,javax.servlet.ServletException
+2019-12-26 12:06:03 - Mapped "{[/beans || /beans.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-12-26 12:06:03 - Mapped "{[/health || /health.json],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.HealthMvcEndpoint.invoke(java.security.Principal)
+2019-12-26 12:06:03 - Mapped "{[/trace || /trace.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-12-26 12:06:03 - Mapped "{[/dump || /dump.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-12-26 12:06:03 - Mapped "{[/metrics/{name:.*}],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.MetricsMvcEndpoint.value(java.lang.String)
+2019-12-26 12:06:03 - Mapped "{[/metrics || /metrics.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-12-26 12:06:03 - Mapped "{[/env/{name:.*}],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EnvironmentMvcEndpoint.value(java.lang.String)
+2019-12-26 12:06:03 - Mapped "{[/env || /env.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-12-26 12:06:03 - Mapped "{[/info || /info.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-12-26 12:06:03 - Mapped "{[/configprops || /configprops.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-12-26 12:06:04 - Registering beans for JMX exposure on startup
+2019-12-26 12:06:04 - Registering beans for JMX exposure on startup
+2019-12-26 12:06:04 - Starting beans in phase 0
+2019-12-26 12:06:04 - Located managed bean 'requestMappingEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=requestMappingEndpoint]
+2019-12-26 12:06:04 - Located managed bean 'environmentEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=environmentEndpoint]
+2019-12-26 12:06:04 - Located managed bean 'healthEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=healthEndpoint]
+2019-12-26 12:06:04 - Located managed bean 'beansEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=beansEndpoint]
+2019-12-26 12:06:04 - Located managed bean 'infoEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=infoEndpoint]
+2019-12-26 12:06:04 - Located managed bean 'metricsEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=metricsEndpoint]
+2019-12-26 12:06:04 - Located managed bean 'traceEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=traceEndpoint]
+2019-12-26 12:06:04 - Located managed bean 'dumpEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=dumpEndpoint]
+2019-12-26 12:06:04 - Located managed bean 'autoConfigurationReportEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=autoConfigurationReportEndpoint]
+2019-12-26 12:06:04 - Located managed bean 'configurationPropertiesReportEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=configurationPropertiesReportEndpoint]
+2019-12-26 12:06:04 - Initializing ProtocolHandler ["http-nio-8080"]
+2019-12-26 12:06:04 - Starting ProtocolHandler [http-nio-8080]
+2019-12-26 12:06:04 - Using a shared selector for servlet write/read
+2019-12-26 12:06:04 - Tomcat started on port(s): 8080 (http)
+2019-12-26 12:06:04 - Started AssessmentApplication in 25.647 seconds (JVM running for 30.418)
+2019-12-26 15:48:38 - Initializing Spring FrameworkServlet 'dispatcherServlet'
+2019-12-26 15:48:38 - FrameworkServlet 'dispatcherServlet': initialization started
+2019-12-26 15:48:39 - FrameworkServlet 'dispatcherServlet': initialization completed in 169 ms
+2019-12-26 19:45:29 - Starting AssessmentApplication on wsticks with PID 9696 (C:\Users\williamsondrums\Downloads\assessment\target\classes started by williamsondrums in C:\Users\williamsondrums\Downloads\assessment)
+2019-12-26 19:45:29 - No active profile set, falling back to default profiles: default
+2019-12-26 19:45:29 - Refreshing org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@190fc5b: startup date [Thu Dec 26 19:45:29 WAT 2019]; root of context hierarchy
+2019-12-26 19:45:32 - Overriding bean definition for bean 'ignoredPathsWebSecurityConfigurerAdapter' with a different definition: replacing [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.boot.autoconfigure.security.SpringBootWebSecurityConfiguration; factoryMethodName=ignoredPathsWebSecurityConfigurerAdapter; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/boot/autoconfigure/security/SpringBootWebSecurityConfiguration.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=org.springframework.boot.actuate.autoconfigure.ManagementWebSecurityAutoConfiguration; factoryMethodName=ignoredPathsWebSecurityConfigurerAdapter; initMethodName=null; destroyMethodName=(inferred); defined in class path resource [org/springframework/boot/actuate/autoconfigure/ManagementWebSecurityAutoConfiguration.class]]
+2019-12-26 19:45:34 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2019-12-26 19:45:34 - Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [class org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$fb0e695e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-12-26 19:45:36 - Tomcat initialized with port(s): 8680 (http)
+2019-12-26 19:45:36 - Starting service Tomcat
+2019-12-26 19:45:36 - Starting Servlet Engine: Apache Tomcat/8.5.6
+2019-12-26 19:45:36 - Initializing Spring embedded WebApplicationContext
+2019-12-26 19:45:36 - Root WebApplicationContext: initialization completed in 6935 ms
+2019-12-26 19:45:38 - Mapping filter: 'metricsFilter' to: [/*]
+2019-12-26 19:45:38 - Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-12-26 19:45:38 - Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-12-26 19:45:38 - Mapping filter: 'httpPutFormContentFilter' to: [/*]
+2019-12-26 19:45:38 - Mapping filter: 'requestContextFilter' to: [/*]
+2019-12-26 19:45:38 - Mapping filter: 'springSecurityFilterChain' to: [/*]
+2019-12-26 19:45:38 - Mapping filter: 'webRequestLoggingFilter' to: [/*]
+2019-12-26 19:45:38 - Mapping filter: 'applicationContextIdFilter' to: [/*]
+2019-12-26 19:45:38 - Mapping servlet: 'dispatcherServlet' to [/]
+2019-12-26 19:45:38 - Building JPA container EntityManagerFactory for persistence unit 'default'
+2019-12-26 19:45:46 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-12-26 19:45:49 - Looking for @ControllerAdvice: org.springframework.boot.context.embedded.AnnotationConfigEmbeddedWebApplicationContext@190fc5b: startup date [Thu Dec 26 19:45:29 WAT 2019]; root of context hierarchy
+2019-12-26 19:45:49 - Mapped "{[/v1/users/{userKey}],methods=[PUT],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<com.williams.assessment.model.response.AssessmentApiResponse> com.williams.assessment.controller.UserController.update(java.lang.String,com.williams.assessment.model.request.UpsertUserRequest,java.lang.String)
+2019-12-26 19:45:49 - Mapped "{[/v1/users/{userKey}],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<com.williams.assessment.model.response.AssessmentApiResponse> com.williams.assessment.controller.UserController.getUserInfo(java.lang.String,java.lang.String)
+2019-12-26 19:45:49 - Mapped "{[/v1/users],methods=[GET],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<com.williams.assessment.model.response.AssessmentApiResponse> com.williams.assessment.controller.UserController.getUsers(java.lang.String,com.williams.assessment.model.request.UserSearchRequest) throws com.williams.assessment.exception.AssessmentApiException
+2019-12-26 19:45:49 - Mapped "{[/v1/users/logout],methods=[POST],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<com.williams.assessment.model.response.AssessmentApiResponse> com.williams.assessment.controller.UserController.logout(java.lang.String)
+2019-12-26 19:45:49 - Mapped "{[/v1/users],methods=[POST],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<com.williams.assessment.model.response.AssessmentApiResponse> com.williams.assessment.controller.UserController.toCreateUser(com.williams.assessment.model.request.UpsertUserRequest,org.springframework.validation.BindingResult)
+2019-12-26 19:45:49 - Mapped "{[/v1/users/passwordchange],methods=[POST],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<com.williams.assessment.model.response.AssessmentApiResponse> com.williams.assessment.controller.UserController.changePassword(com.williams.assessment.model.request.UpsertUserRequest,java.lang.String)
+2019-12-26 19:45:49 - Mapped "{[/v1/users/authenticate],methods=[POST],produces=[application/json]}" onto public org.springframework.http.ResponseEntity<com.williams.assessment.model.response.AssessmentApiResponse> com.williams.assessment.controller.UserController.authenticate(com.williams.assessment.model.request.AuthenticateUserRequest,org.springframework.validation.BindingResult) throws com.williams.assessment.exception.AssessmentApiException
+2019-12-26 19:45:49 - Mapped "{[/error]}" onto public org.springframework.http.ResponseEntity<java.util.Map<java.lang.String, java.lang.Object>> org.springframework.boot.autoconfigure.web.BasicErrorController.error(javax.servlet.http.HttpServletRequest)
+2019-12-26 19:45:49 - Mapped "{[/error],produces=[text/html]}" onto public org.springframework.web.servlet.ModelAndView org.springframework.boot.autoconfigure.web.BasicErrorController.errorHtml(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse)
+2019-12-26 19:45:49 - Mapped URL path [/webjars/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-12-26 19:45:49 - Mapped URL path [/**] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-12-26 19:45:50 - Mapped URL path [/**/favicon.ico] onto handler of type [class org.springframework.web.servlet.resource.ResourceHttpRequestHandler]
+2019-12-26 19:45:50 - 
+
+Using default security password: 4d946842-525f-4ec2-90d1-5585319202e8
+
+2019-12-26 19:45:51 - Creating filter chain: OrRequestMatcher [requestMatchers=[Ant [pattern='/css/**'], Ant [pattern='/js/**'], Ant [pattern='/images/**'], Ant [pattern='/webjars/**'], Ant [pattern='/**/favicon.ico'], Ant [pattern='/error']]], []
+2019-12-26 19:45:51 - Creating filter chain: org.springframework.boot.actuate.autoconfigure.ManagementWebSecurityAutoConfiguration$LazyEndpointPathRequestMatcher@11686aa, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@18977e0, org.springframework.security.web.context.SecurityContextPersistenceFilter@785f86, org.springframework.security.web.header.HeaderWriterFilter@7469ca, org.springframework.security.web.authentication.logout.LogoutFilter@d31f14, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@3d168e, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@258d3b, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@18a4c61, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@1c3ece8, org.springframework.security.web.session.SessionManagementFilter@1eb607e, org.springframework.security.web.access.ExceptionTranslationFilter@158dc61, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1a66b8]
+2019-12-26 19:45:51 - Creating filter chain: OrRequestMatcher [requestMatchers=[Ant [pattern='/**']]], [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@75e778, org.springframework.security.web.context.SecurityContextPersistenceFilter@1d543a9, org.springframework.security.web.header.HeaderWriterFilter@1d0944b, org.springframework.security.web.authentication.logout.LogoutFilter@75e70, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@12c9892, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@19428f3, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@c19bc6, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@1bf9e67, org.springframework.security.web.session.SessionManagementFilter@f24a84, org.springframework.security.web.access.ExceptionTranslationFilter@19e3f67, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@cb9e17]
+2019-12-26 19:45:52 - Setting server pool to a list of 1 servers: [http://localhost:9200]
+2019-12-26 19:45:52 - Using single thread/connection supporting basic connection manager
+2019-12-26 19:45:52 - Using custom GSON instance
+2019-12-26 19:45:52 - Node Discovery disabled...
+2019-12-26 19:45:52 - Idle connection reaping disabled...
+2019-12-26 19:45:53 - Mapped "{[/autoconfig || /autoconfig.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-12-26 19:45:53 - Mapped "{[/mappings || /mappings.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-12-26 19:45:53 - Mapped "{[/metrics/{name:.*}],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.MetricsMvcEndpoint.value(java.lang.String)
+2019-12-26 19:45:53 - Mapped "{[/metrics || /metrics.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-12-26 19:45:53 - Mapped "{[/configprops || /configprops.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-12-26 19:45:53 - Mapped "{[/health || /health.json],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.HealthMvcEndpoint.invoke(java.security.Principal)
+2019-12-26 19:45:53 - Mapped "{[/dump || /dump.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-12-26 19:45:53 - Mapped "{[/info || /info.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-12-26 19:45:53 - Mapped "{[/beans || /beans.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-12-26 19:45:53 - Mapped "{[/heapdump || /heapdump.json],methods=[GET],produces=[application/octet-stream]}" onto public void org.springframework.boot.actuate.endpoint.mvc.HeapdumpMvcEndpoint.invoke(boolean,javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws java.io.IOException,javax.servlet.ServletException
+2019-12-26 19:45:53 - Mapped "{[/logfile || /logfile.json],methods=[GET || HEAD]}" onto public void org.springframework.boot.actuate.endpoint.mvc.LogFileMvcEndpoint.invoke(javax.servlet.http.HttpServletRequest,javax.servlet.http.HttpServletResponse) throws javax.servlet.ServletException,java.io.IOException
+2019-12-26 19:45:53 - Mapped "{[/env/{name:.*}],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EnvironmentMvcEndpoint.value(java.lang.String)
+2019-12-26 19:45:53 - Mapped "{[/env || /env.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-12-26 19:45:53 - Mapped "{[/trace || /trace.json],methods=[GET],produces=[application/json]}" onto public java.lang.Object org.springframework.boot.actuate.endpoint.mvc.EndpointMvcAdapter.invoke()
+2019-12-26 19:45:54 - Registering beans for JMX exposure on startup
+2019-12-26 19:45:54 - Registering beans for JMX exposure on startup
+2019-12-26 19:45:54 - Starting beans in phase 0
+2019-12-26 19:45:54 - Located managed bean 'requestMappingEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=requestMappingEndpoint]
+2019-12-26 19:45:54 - Located managed bean 'environmentEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=environmentEndpoint]
+2019-12-26 19:45:54 - Located managed bean 'healthEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=healthEndpoint]
+2019-12-26 19:45:54 - Located managed bean 'beansEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=beansEndpoint]
+2019-12-26 19:45:54 - Located managed bean 'infoEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=infoEndpoint]
+2019-12-26 19:45:54 - Located managed bean 'metricsEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=metricsEndpoint]
+2019-12-26 19:45:54 - Located managed bean 'traceEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=traceEndpoint]
+2019-12-26 19:45:54 - Located managed bean 'dumpEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=dumpEndpoint]
+2019-12-26 19:45:54 - Located managed bean 'autoConfigurationReportEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=autoConfigurationReportEndpoint]
+2019-12-26 19:45:54 - Located managed bean 'configurationPropertiesReportEndpoint': registering with JMX server as MBean [org.springframework.boot:type=Endpoint,name=configurationPropertiesReportEndpoint]
+2019-12-26 19:45:54 - Initializing ProtocolHandler ["http-nio-8680"]
+2019-12-26 19:45:54 - Starting ProtocolHandler [http-nio-8680]
+2019-12-26 19:45:54 - Using a shared selector for servlet write/read
+2019-12-26 19:45:54 - Tomcat started on port(s): 8680 (http)
+2019-12-26 19:45:54 - Started AssessmentApplication in 25.576 seconds (JVM running for 29.885)
