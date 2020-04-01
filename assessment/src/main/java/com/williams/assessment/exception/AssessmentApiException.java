@@ -8,6 +8,7 @@ public class AssessmentApiException extends RuntimeException {
         super(message,cause);
         if(this.getCause() == null && cause != null){
             this.initCause(cause);
+            //this is the Assesment API Exception class.
         }
     }
 }
